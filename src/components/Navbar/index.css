@@ -1,0 +1,8 @@
+.navlink{
+    font-size: 20px;
+}
+@media (min-width:1010px){
+    .navlink{
+        font-size: 26px;
+    }
+}

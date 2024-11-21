@@ -1,0 +1,82 @@
+.freq-asked-que-heading{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #101828;
+}
+.freq-asked-que-para{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    color: #475467;
+}
+.freq-asked-que-conainer{
+    margin:40px ;
+}
+.minus-icon{
+    width: 30px;
+    height: 30px;
+}
+.freq-asked-que{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: #101828;
+
+}
+.freq-asked-ques-ans{
+    color: #475467;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    
+}
+.plus-icon{
+    width:20px;
+    height: 20px;
+}
+.any-que-heading{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #101828;
+}
+.any-que-desc{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    color: #475467;
+}
+.get-in-touch-button{
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: 1px solid #7F56D9;
+    background-color: #7F56D9;
+    color: #ffffff;
+}
+@media (min-width:1040px){
+    .freq-asked-que-heading{
+        font-size: 38px;
+    }
+    .freq-asked-que-para{
+        font-size: 32px;
+    }
+    .freq-asked-que-conainer{
+        width:820px ;
+    }
+    .freq-asked-que{
+        font-size:22px;
+    }
+}
